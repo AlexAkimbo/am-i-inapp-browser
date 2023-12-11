@@ -134,7 +134,7 @@ function App() {
 				<div class='grid'>
 					<a
 						href={
-							'https://www.businessinsider.com/the-founder-ceo-statsbomb-career-pivoting-in-sports-industry-2021-5'
+							'https://blackmirror.page.link/V9Hh'
 						}
 						target='_system'
 					>
@@ -143,7 +143,7 @@ function App() {
 					<button
 						onClick={() => {
 							window.open(
-								'https://www.businessinsider.com/the-founder-ceo-statsbomb-career-pivoting-in-sports-industry-2021-5',
+								'https://blackmirror.page.link/V9Hh',
 								'_system',
 								'location=yes'
 							)
@@ -153,13 +153,13 @@ function App() {
 						Link 2
 					</button>
 					<a
-						href={`googlechrome://navigate?url=www.businessinsider.com/the-founder-ceo-statsbomb-career-pivoting-in-sports-industry-2021-5`}
+						href={`googlechrome://navigate?url=blackmirror.page.link/V9Hh`}
 						target='_system'
 					>
 						Link 3
 					</a>
 					<a
-						href={`googlechrome://www.businessinsider.com/the-founder-ceo-statsbomb-career-pivoting-in-sports-industry-2021-5`}
+						href={`googlechrome://blackmirror.page.link/V9Hh`}
 						target='_system'
 					>
 						Link 4
