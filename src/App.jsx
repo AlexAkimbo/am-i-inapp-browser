@@ -140,6 +140,7 @@ function App() {
 					>
 						Link 1
 					</a>
+					<br></br>
 					<button
 						onClick={() => {
 							window.open(
@@ -152,18 +153,21 @@ function App() {
 					>
 						Link 2
 					</button>
+					<br></br>
 					<a
 						href={`googlechrome://navigate?url=www.businessinsider.com/the-founder-ceo-statsbomb-career-pivoting-in-sports-industry-2021-5`}
 						target='_system'
 					>
 						Link 3
 					</a>
+					<br></br>
 					<a
 						href={`googlechrome://www.businessinsider.com/the-founder-ceo-statsbomb-career-pivoting-in-sports-industry-2021-5`}
 						target='_system'
 					>
 						Link 4
 					</a>
+					<br></br>
 					<a
 						href='intent://navigate?url=www.http.cat#Intent;scheme=;package=com.android.browser;S.browser_fallback_url=http%3A%2F%2Fhttp.cat;end'
 						target='_system'
